@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Dayanand Kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt"image" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif")
-)
-">
+<img align="right" alt"image" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif")>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkamble20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkamble20" /> </p>
 
 - 🌱 I’m currently learning **React, SQL, API, NodeJs**
@@ -13,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shubham-kamble-14286b189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kamble-14286b189" height="30" width="40" /></a>
+<a href="https://instagram.com/shubz.s20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubz.s20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
