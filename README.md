@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Dayanand Kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt"image" widht="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Feb04ea4d33bcf34b33296e715136b28c2652fae19288feb6e47068bc14b52184%2F68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37332f34362f39392f3336305f465f3237333436393937325f4553553952713365497053724b337864646c4945794468377672736c626947672e6a7067&tbnid=XqFKVsgAIu__GM&vet=12ahUKEwi3kee7xtSBAxVQ3DgGHcfxBEwQMygVegQIARBt..i&imgrefurl=https%3A%2F%2Fgithub.com%2FPvamsi02&docid=wQ_RMErFCApT8M&w=360&h=360&itg=1&q=coding%20gif%20for%20github&hl=en&ved=2ahUKEwi3kee7xtSBAxVQ3DgGHcfxBEwQMygVegQIARBt">
+<img align="right" alt"image" widht="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkamble20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkamble20" /> </p>
 
 - 🌱 I’m currently learning **React, SQL, API, NodeJs**
