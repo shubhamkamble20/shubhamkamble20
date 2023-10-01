@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Dayanand Kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt"image" widht="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHNBL_zznudXwwXglBeFGZ-frhpaZJtHeg&usqp=CAU](https://futureskillsprime.in//sites/default/files/2021-06/Link%20Sharing-Foundation%20Full%20Stack%20Web%20Development.jpg)")
+<img align="right" alt"image" widht="400" src="https://www.upgrad-bootcamps.com/img/card1.png")
 )
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkamble20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkamble20" /> </p>
