@@ -1,4 +1,3 @@
-<img src="https://github.com/shubhamkamble20/shubhamkamble20/blob/main/HTML-Code.jpg">
 <h1 align="center">Hi 👋, I'm Shubham Dayanand Kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt"image" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif")>
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, SQL, API, NodeJs**
 
-- 💬 Ask me about **React, HTML,CSS, JS**
+- 💬 Ask me about **React, HTML, CSS, JS, API, Testing**
 
 - 📫 How to reach me **shubhamkamble408@gmail.com**
 
