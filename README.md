@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Dayanand Kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt"image" widht="400" src="![image](https://github.com/shubhamkamble20/shubhamkamble20/assets/46300889/0d4c6dcf-e601-4165-96e6-3c21c6dccb01)
+<img align="right" alt"image" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHNBL_zznudXwwXglBeFGZ-frhpaZJtHeg&usqp=CAU")
+)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkamble20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkamble20" /> </p>
 
