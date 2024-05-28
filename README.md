@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkamble20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkamble20" /> </p>
 
-- 🌱 I’m currently learning **React, SQL, API, NodeJs**
+- 🌱 I’m currently Working on **AWS, Azure, Jenkins, Ansible, Docker, Terraform, Kubernetes**
 
-- 💬 Ask me about **React, HTML, CSS, JS, API, Testing**
+- 💬 Ask me about **AWS, Azure Devops, Jenkins, Ansible, Docker, Terraform, Kubernetes**
 
 - 📫 How to reach me **shubhamkamble408@gmail.com**
 
